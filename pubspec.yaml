@@ -39,7 +39,6 @@ dependencies:
   flutter_svg: ^1.1.6
   google_fonts: ^3.0.1
   mask_text_input_formatter: ^2.4.0
-  phone_number: ^1.0.0
   shared_preferences: ^2.0.15
 
 dev_dependencies:
