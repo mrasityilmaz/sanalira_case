@@ -1,4 +1,7 @@
 # SanaLira
+![ss](https://github.com/mrasityilmaz/sanalira_case/blob/main/preview.png)
+
+
 
 https://user-images.githubusercontent.com/81583706/210756738-be7eca6b-4a39-4642-8e71-41d6c10e45de.mp4
 
